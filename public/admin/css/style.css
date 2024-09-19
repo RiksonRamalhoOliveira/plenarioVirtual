@@ -1,0 +1,13 @@
+
+
+.button-consistent {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    padding: 0; /* Para remover qualquer preenchimento padrão */
+}
+
+.bold-button {
+    font-weight: bold;
+}
